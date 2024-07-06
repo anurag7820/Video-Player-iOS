@@ -1,7 +1,7 @@
-Followed MVVM Architecture : 
-ViewModel for video path and caption updation.
-ViewController for presenting the UI and have used AVPlayerViewController and AVPlayer for displaying the Video.
-Model for structuring json transcript data and all the UI data.
+Followed MVVM Architecture : <br> <br>
+1) ViewModel for video path and caption updation. <br>
+2) ViewController for presenting the UI and have used AVPlayerViewController and AVPlayer for displaying the Video. <br>
+3) Model for structuring json transcript data and all the UI data.
 
 Using Instructions: 
 1) Clone the Repo.
